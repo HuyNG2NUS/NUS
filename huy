@@ -1,1 +1,14 @@
 huy
+
+Basic
++ HTML Home
++ HTML Introdution
++ HTML Basic
+- HTML Elements (tags)
++ html, body, head, header, footer, a, area, article, audio,
++ code, div, embed, form, iframe, h1-> h6, b, br, button, canvas, 
++ img, input, label, li, link, menu, ol, select, option
++ strong, table, th, td, tr, u, ul, video
++ style, script
+- HTML Attributes
++ id, class and common attributes of above tags 
